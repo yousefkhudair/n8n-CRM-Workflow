@@ -11,7 +11,7 @@ This project demonstrates a real-world CRM workflow built using [n8n Cloud](http
 
 ## 🔗 Tech Stack
 
-- [n8n Cloud](https://yousefkhudair.app.n8n.cloud/workflow/67GEpXlsUtnw14sj)
+- [n8n Cloud](https://yousefkhudair.app.n8n.cloud/workflow/67GEpXlsUtnw14sj) (Contact: yousefkkhudair@gmail.com for access)
 - Google Sheets (OAuth)
 - Slack (OAuth & API)
 - Gmail (OAuth)
