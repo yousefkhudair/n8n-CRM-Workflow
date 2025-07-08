@@ -7,18 +7,14 @@ This project demonstrates a real-world CRM workflow built using [n8n Cloud](http
 - **Trigger**: New row added in a Google Sheet (e.g., form submission or CRM entry)
 - **Slack Notification**: Alerts the sales team in a designated Slack channel with lead details
 - **Gmail Auto-Reply**: Sends a confirmation email to the lead
-- **(Optional)**: Logs lead data to another sheet for reporting or audit
+- **Message Logging**: Logs lead data to another sheet for reporting or audit
 
 ## 🔗 Tech Stack
 
-- [n8n Cloud](https://n8n.io)
+- [n8n Cloud](https://yousefkhudair.app.n8n.cloud/workflow/67GEpXlsUtnw14sj)
 - Google Sheets (OAuth)
 - Slack (OAuth & API)
 - Gmail (OAuth)
-
-## 📸 Screenshots
-
-*Insert exported image of your n8n Cloud workflow here*
 
 ## ✅ Use Cases
 
@@ -34,7 +30,7 @@ This workflow mirrors the kind of proof-of-concept Solutions Engineers often bui
 ## 📁 Project Status
 
 ✅ Fully operational  
-🚫 Docker/local setup not included — hosted entirely on n8n Cloud  
+✅ hosted entirely on n8n Cloud  
 
 ---
 
